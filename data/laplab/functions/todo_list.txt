@@ -1,0 +1,14 @@
+・0_roomの作成
+・1x_normの作成
+・1x_invの作成
+・2x_norm_1~8の作成
+・2x_inv_1~8の作成
+・4x_norm_1~8の作成
+・4x_inv_1~8の作成
+・resetのデバッグ
+・buildのデバッグ
+・loadのデバッグ
+・0_roomのデバッグ
+・TimeとStoryのデバッグ
+・resourse_packの作成（navi、黒電話、鍵、言語、権限、タイトル画面、家具）
+・本一冊に統一
